@@ -9,7 +9,7 @@
 #### Eduardo Flores Gallegos
 
 
-Este reposditorio es para la materia de estructuras y organizacion de datos
+Este repositorio es para la materia de estructuras y organizacion de datos
 ##### Temario
 1 Fundamentos de estructura de datos
 
