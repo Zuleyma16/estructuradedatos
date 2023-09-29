@@ -66,6 +66,7 @@ Funcionan en secuencia: un algoritmo está compuesto por una serie de pasos orde
 Las secuencias son concretas: cada paso es claro y no deja lugar a la ambigüedad.
 Los algoritmos son abstractos: son modelos o guías para ordenar procesos.
 La cantidad de pasos de un algoritmo es finita.
+Es cualquier cosa que funcion paso a paso, donde cada caso se puede describir sin ambuguedad y sin hacer referencia a una computadora en particular, y ademas tiene un limite fijo en cuanto a la cantidad de datos que se pueden leer/escribir en un solo paso 
 
 Fuente: https://www.significados.com/algoritmo/
 
@@ -76,7 +77,7 @@ Tipos de estructuras de datos
 Los tipos de estructuras de datos se pueden clasificar en dos grupos:
 
 Estructuras lineales. Son aquellas que permiten almacenar y recuperar información en una secuencia lineal. Lo anterior quiere decir que los elementos están conectados por relaciones de precedencia y siguiente. Algunos ejemplos son listas, colas, pilas y cadenas.
-Estructuras no lineales. Son aquellas que no tienen un orden predefinido para el almacenamiento o recuperación de información. Lo que implica que los elementos no están conectados por relaciones de precedencia o siguiente. Algunos ejemplos son árboles, grafos y tablas hash.
+Estructuras no lineales. Son aquellas que no tienen un orden predefinido para el almacenamiento o recuperación de información. Lo que implica que los elementos no están conectados por relaciones de precedencia o siguiente. Algunos ejemplos son árboles, grafos y tablas hash. 
 
 Fuente: https://muytecnologicos.com/diccionario-tecnologico/estructura-de-datos
 
@@ -85,6 +86,7 @@ Dato
 Un dato es la representación de una variable que puede ser cuantitativa o cualitativa que indica un valor que se le asigna a las cosas y se representa a través de una secuencia de símbolos, números o letras.
 
 Los datos describen hechos empíricos. Para examinarlos deben ser organizados o tabulados, ya que un dato por sí mismo no puede demostrar demasiado sino que se debe evaluar el conjunto para examinar los resultados.
+Es la clasificacion de un dato segun sus caracteristicas puede tratarse de una cadena de un numero etc.
 
 Fuente: https://concepto.de/dato/#ixzz8DxZjgvXj
 
@@ -127,5 +129,22 @@ Una base de datos es una recopilación organizada de información o datos estruc
 Los datos de los tipos más comunes de bases de datos en funcionamiento actualmente se suelen utilizar como estructuras de filas y columnas en una serie de tablas para aumentar la eficacia del procesamiento y la consulta de datos. Así, se puede acceder, gestionar, modificar, actualizar, controlar y organizar fácilmente los datos. La mayoría de las bases de datos utilizan un lenguaje de consulta estructurada (SQL) para escribir y consultar datos.
 
 Fuente: https://www.oracle.com/mx/database/what-is-database/
+
+Esructuras de datos lineales
+
+Son aquellas en las que los elementos ocupan lugares sucesivos en la estructura y cada uno de ellos tienen un unico sucesor y un unico predecesor.
+
+Estructuras de datos no lineales
+
+son aquellas en las que cada elemento puede estar enlazado a cualquier otro componente.
+
+Estructura de datos dinamica
+
+Se considera dinamica si para su creasion se van generando o eliminando elementos al momento de ejecucion.
+
+Estructura de datos estaticos
+
+Son aquellos en la que el tamaño ocupado en la memoria se define antes de que el programa se ejecute y no pueda modificarse mientras se ejecute el programa
+
 
  
