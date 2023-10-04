@@ -144,7 +144,39 @@ Se considera dinamica si para su creasion se van generando o eliminando elemento
 
 Estructura de datos estaticos
 
-Son aquellos en la que el tamaño ocupado en la memoria se define antes de que el programa se ejecute y no pueda modificarse mientras se ejecute el programa
+Son aquellos en la que el tamaño ocupado en la memoria se define antes de que el programa se ejecute y no pueda modificarse mientras se ejecute el program
+
+## Unidad 2
+Listas: Una lista es una enumeración de personas, cosas, cantidades, etc., que se hace con determinado propósito.
+
+Diccionarios: Un diccionario es un texto de consulta que reúne las palabras o expresiones de una lengua o ámbito específico, organizadas alfabéticamente, para dar a conocer su significado, su historia, su escritura, su pronunciación o su traducción a otro idioma.
+
+Diferencias entre listas y diccionarios:
+Las listas son un conjunto de variables que se pueden modificar.
+*Los diccionarios son como las listas, pero con una mayor facilidad para referirnos a un elemento del diccionario.
+*Las listas acceden a cada valor por número, mientras que los diccionarios acceden a cada valor por nombre.
+*Las listas son una estructura de datos que combina una serie de valores, mientras que los diccionarios son un mapa.
+*Las listas asignan posiciones o índices a valores, mientras que los diccionarios asignan claves significativas a valores.
+
+Pilas (programacion): En programación, una pila es una estructura de datos que permite almacenar y recuperar datos en el orden LIFO (Last In, First Out)123. La pila es útil para procesar estructuras anidadas o para funciones que llaman a otras funciones.
+
+Pilas estaticas (programacion): Se les llama pilas estáticas puesto que su tamaño se define al momento de su creación y no puede ser cambiado luego. Este tipo de pilas se implementa con arreglos.
+
+Pilas dinamicas: Una pila es fundamentalmente un objeto dinámico cuyo tamaño se modifica en forma continua conforme se agregan y remueven elementos. (Ejemplo de una pila dinámica). Un programador siempre debe preocuparse por la legibilidad del código que produce.
+
+Colas (Programacion): Una cola en programación hace referencia a una especie de lista enlazada que sirve para reflejar algunos tipos de datos o una variable. Dichos datos deben ser de 
+la misma clase y tienen que contar con un orden dentro de la cola. Por lo que, es una herramienta que ayuda a efectuar un registro en la programación.
+
+Colas estaticas y dinamicas (Programacion): Entre las ventajas de emplear la estructura de datos cola, es factible mencionar el orden con el que se guardan los datos. Con esto, el programador tendrá la confianza de que su información permanecerá almacenada de forma segura. Además de que, tendrá la posibilidad de manipular su diapositiva, siempre que cumpla con las normativas. De lo contrario, verá el mensaje null en la pantalla.
+
+Lenguaje R: R es un lenguaje de programación que permite realizar análisis de datos escribiendo scripts y funciones. R es un lenguaje interactivo orientado a objetos, este ha sido diseñado por estadísticos para los estadísticos. El lenguaje proporciona objetos, operadores y funciones que hacen que el proceso de exploración, modelado y visualización de datos sea natural. Los análisis completos de datos a menudo pueden ser representados en unas pocas líneas de código.
+
+Lenguaje Python: Python es un lenguaje de programación que se ha popularizado hasta ser el quinto lenguaje de programación más importante del momento. Python es un lenguaje multiparadigma, multiplataforma y de tipado dinámico2. Es poderoso y fácil de aprender, con estructuras de datos eficientes y de alto nivel, así como un enfoque simple pero efectivo hacia la programación orientada a objetos.
+
+Lenguaje Javascript: JavaScript es el lenguaje de programación que debes usar para añadir características interactivas a tu sitio web, (por ejemplo, juegos, eventos que ocurren cuando los botones son presionados o los datos son introducidos en los formularios, efectos de estilo dinámicos, animación, y mucho más). Este artículo te ayudará a comenzar con este lenguaje extraordinario y te dará una idea de qué es posible hacer con él.
+
+
+
 
 
  
