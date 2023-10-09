@@ -1,2 +1,0 @@
-> lengths(Datos)
-> lengths(Localidades)
