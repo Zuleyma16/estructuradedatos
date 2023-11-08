@@ -275,8 +275,25 @@ Lenguaje Python: Python es un lenguaje de programación que se ha popularizado h
 
 Lenguaje Javascript: JavaScript es el lenguaje de programación que debes usar para añadir características interactivas a tu sitio web, (por ejemplo, juegos, eventos que ocurren cuando los botones son presionados o los datos son introducidos en los formularios, efectos de estilo dinámicos, animación, y mucho más). Este artículo te ayudará a comenzar con este lenguaje extraordinario y te dará una idea de qué es posible hacer con él.
 
+# UNIDAD3
+
+Estructuras no lineales
+
+*Recursividad
+
+*Arboles
+
+*Grafos
 
 
+# UNIDAD4
 
+Metodos de ordenamiento y busqueda
+
+*Metodos de ordenamiento
+
+*Metodos de Busqueda
+
+*Recuperacion de datos
 
  
