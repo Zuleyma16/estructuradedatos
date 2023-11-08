@@ -284,6 +284,21 @@ Estructuras no lineales
 *Arboles
 
 *Grafos
+<<<<<<< HEAD
+=======
+
+
+# UNIDAD4
+
+Metodos de ordenamiento y busqueda
+
+*Metodos de ordenamiento
+
+*Metodos de Busqueda
+
+*Recuperacion de datos
+
+>>>>>>> 8e24bd29a07c19d3c3918d3c9c437bf375a8a3a3
 
 
 # UNIDAD4
